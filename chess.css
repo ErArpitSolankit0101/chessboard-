@@ -1,0 +1,19 @@
+#tb{
+     width:600px; height:600px;
+     border-color:black;
+     
+   
+}
+.w{
+    width: 65px;
+    height: 65px;
+    border-color: black;
+    background-color:white;
+
+}
+.b{
+    width:65px;
+    height:65px;
+    border-color: black;
+   background-color: black;
+}
